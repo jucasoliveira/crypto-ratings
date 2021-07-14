@@ -110,7 +110,7 @@ the following:
 If it is a crypto coin:
 
 1. The number of whales holding the wallet;
-2. The contract limits of transaction, a.k.a anti bot;
+2. The contract limits of transaction and or a risk management system, a.k.a anti bot;
 3. the potential differences between the volatility of the coin price both in short term and long-term ;
 4. the interests, including the risk/reward expectations, of relevant
  stakeholders on liquidity pools. These stakeholders may include some or all of the following:
@@ -136,30 +136,32 @@ If it is a DAO:
 
 ### Risk Grading
 
-- **AAA+**
-- **AAA**
-- **AA+** 
-- **AA**
-- **A+**
-- **A**: Low Risk
-- **BBB+**
-- **BBB**
-- **BB+**
-- **BB**
-- **B+**
-- **B**: Medium risk
-- **CCC+**
-- **CCC**
-- **CC+**
-- **CC**
-- **C+**
-- **C**: High risk
-- **DDD+**
-- **DDD**
-- **DD+**
-- **DD**
-- **D+**
-- **D**: Higher risk
+Risk grading is the calculation of the  Average Probability of DOg Default / price goes to 0:
+
+- **AAA+**: 0.03%
+- **AAA**: 0.05%
+- **AA+**: 0.06%
+- **AA**: 0.07%
+- **A+**: 0.08%
+- **A**: 0.09%
+- **BBB+**: 0.10%
+- **BBB**: 0.25%
+- **BB+**: 0.50%
+- **BB**: 1.00%
+- **B+**: 2.50%
+- **B**: 8.00%
+- **CCC+**: 12.00%
+- **CCC**: 22.00%
+- **CC+**: 30.00%
+- **CC**: 38.00%
+- **C+**: 42.00%
+- **C**: 50.00%
+- **DDD+**: 58.00%
+- **DDD**: 66.00%
+- **DD+**: 74.00%
+- **DD**: 82.00%
+- **D+**: 90.00%
+- **D**: 100%
 
 
 ### References
