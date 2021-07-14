@@ -26,7 +26,7 @@ Although, there are some sort of regulations centralized institutions can do, bu
 
 But regulating a decentralized market can be achieved naturally, and when big money comes to play, there are a need to a market to becomes more controlled ... at least the mainstream part of it, so how come we can regulate it ?
 
-## Proposal
+## Proposal
 
 ### Introducing Crypto Ratings
 
