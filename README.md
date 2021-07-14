@@ -108,6 +108,27 @@ Economic capital is a set of evaluation of some DOrg specific factors, those are
 - **Operational risk**: Combination of Realized P/L, Net Realized P/L , and Realized P/L ratio loss;
 - **Business risk**: Volatility of the price of the asset;
 
+
+### Risk Management system
+
+A DOrg may or may not have any system to identify the risks of it's own institution, to understand if a DOrg have a RMS , we need to evaluate it's type.
+
+#### CryptoCurrency
+
+Evaluate a cryptocurrency might need to investigate it's source code, rather a participant node of the network or a smart contract, containing the rules of transaction and holdings of the asset.
+The main factors to evaluate a RMS on a cryptocurrency are:
+
+- **Anti-bot implementation**: A piece of code which provides safety measurements against trading bots;
+- **Anti-liquidation implementation**: A piece of code which provides safety against instant liquidation of the asset;
+- **Anti-laundry implementation**: A piece of code which provides traceability of the asset's traded;
+
+#### DeFi
+
+- **Liquidity collateral risk**: Safety measurements of the collateral fo the liquidity pool;
+- **Liquidation safety**: A liquidation smart contract which insure network users safety returns in case of large liquidation;
+
+#### DAO
+
 ### Risk Evaluation
 
 How we going to evaluate a risk in many contexts, using various tools such as economic capital models and stress and scenario tests? In
@@ -119,7 +140,7 @@ the following:
 
 #### For crypto coin:
 
-1. The number of whales holding the wallet;
+1. The number of whales wallet holding the asset;
 2. The contract limits of transaction and or a risk management system, a.k.a anti bot;
 3. the potential differences between the volatility of the coin price both in short term and long-term ;
 4. the interests, including the risk/reward expectations, of relevant
