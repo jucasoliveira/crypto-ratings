@@ -44,6 +44,8 @@ And for that we have to understand how we can issue a risk assessment of a crypt
 
 The terms below are defined for use in this paper standard of practice.
 
+- **Whale**: A cryptocurrency wallet which hold's large amount of assets based on BTC comparison;
+- **Wallet**: A crypto hash which holds assets such as crypto coins, NFT's , etc;
 - **Economic Capital**: The amount of capital an DOrg requires to survive or to meet
 a business objective for a specified period of time and risk metric, given its risk profile.
 
@@ -98,30 +100,63 @@ few factors affecting an DOrg financial position.
 
 ### Risk Evaluation
 
-How we going to evaluate a risk in many contexts, using various tools such as economic capital models and stress and scenario tests. In
-performing services related to risk evaluation, the actuary should consider, or may rely on others who have considered, the following:
+How we going to evaluate a risk in many contexts, using various tools such as economic capital models and stress and scenario tests? In
+performing services related to risk evaluation, we should consider, or may rely on others who have considered, the following:
 
 Information about the financial strength, risk profile, and risk environment of the
 organization that is appropriate to the assignment. Such information may include
 the following:
 
-1. the financial flexibility of the organization;
-2. the nature, scale, and complexity of the risks faced by the organization;
-3. the potential differences between the current and long-term risk
-environments;
-4. the organization’s strategic goals, including goals for the level and
- volatility of profits, both short term and long term;
-5. the interests, including the risk/reward expectations, of relevant
- stakeholders. These stakeholders may include some or all of the following:
- owners, boards of directors, management, customers, partners,
- employees, regulators and others potentially impacted by the
- organization’s management of risk;
-6. regulatory or rating agency criteria for risk levels and the implications of
- potential risk levels on the continuation of business operations as reflected
+If it is a crypto coin:
+
+1. The number of whales holding the wallet;
+2. The contract limits of transaction, a.k.a anti bot;
+3. the potential differences between the volatility of the coin price both in short term and long-term ;
+4. the interests, including the risk/reward expectations, of relevant
+ stakeholders on liquidity pools. These stakeholders may include some or all of the following:
+ owners wallets, whales wallets and others potentially impacted by the
+ DOgs management of risk;
+5. external ratings criteria for risk levels and the implications of
+ potential risk levels on the continuation of the coin exchange as reflected
  in ratings or other external measures of security;
-7. the degree to which the organization’s different risks interact with one
- another; actual and perceived diversification benefits; and dependencies or
- correlations of the different risks;
-8. limitations to the fungibility of capital across the organization; and
-9. the extent to which the organization’s exposure to risks may differ from
+6. the degree to which the origins wallets interact withing other risk managed DOg's and whales;
+7. limitations to the fungibility of capital across the organization; and
+8. the extent to which the organization’s exposure to risks may differ from
  the exposures of its competitors.
+
+ If it is a Defi:
+ 
+
+
+If it is a DAO:
+
+
+
+
+
+### Risk Grading
+
+- **AAA+**
+- **AAA**
+- **AA+** 
+- **AA**
+- **A+**
+- **A**: Low Risk
+- **BBB+**
+- **BBB**
+- **BB+**
+- **BB**
+- **B+**
+- **B**: Medium risk
+- **CCC+**
+- **CCC**
+- **CC+**
+- **CC**
+- **C+**
+- **C**: High risk
+- **DDD+**
+- **DDD**
+- **DD+**
+- **DD**
+- **D+**
+- **D**: Higher risk
