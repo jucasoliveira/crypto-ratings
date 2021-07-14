@@ -130,8 +130,9 @@ If it is a crypto coin:
  potential risk levels on the continuation of the coin exchange as reflected
  in ratings or other external measures of security;
 6. the degree to which the origins wallets interact withing other risk managed DOg's and whales;
-7. limitations to the coin's liquidation returns to stakeholders; and
-8. the extent to which the DOg's exposure to risks may differ from
+7. the economic capital evaluation;
+8. limitations to the coin's liquidation returns to stakeholders; and
+9. the extent to which the DOg's exposure to risks may differ from
  the exposures of its competitors.
 
  If it is a Defi:
