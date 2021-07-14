@@ -122,7 +122,7 @@ The main factors to evaluate a RMS on a cryptocurrency are:
 - **Anti-liquidation implementation**: A piece of code which provides safety against instant liquidation of the asset;
 - **Anti-laundry implementation**: A piece of code which provides traceability of the asset's traded;
 
-#### DeFi
+####  DeFi
 
 - **Liquidity collateral risk**: Safety measurements of the collateral fo the liquidity pool;
 - **Liquidation safety**: A liquidation smart contract which insure network users safety returns in case of large liquidation;
@@ -138,7 +138,7 @@ Information about the financial strength, risk profile, and risk environment of 
 organization that is appropriate to the assignment. Such information may include
 the following:
 
-#### For crypto coin:
+#### For crypto coin
 
 1. The number of whales wallet holding the asset;
 2. The contract limits of transaction and or a risk management system, a.k.a anti bot;
