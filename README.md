@@ -96,7 +96,7 @@ position.
 few factors affecting an DOrg financial position.
 
 
-### Risk Evaluation
+### Risk Evaluation
 
 How we going to evaluate a risk in many contexts, using various tools such as economic capital models and stress and scenario tests. In
 performing services related to risk evaluation, the actuary should consider, or may rely on others who have considered, the following:
