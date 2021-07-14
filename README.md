@@ -160,3 +160,10 @@ If it is a DAO:
 - **DD**
 - **D+**
 - **D**: Higher risk
+
+
+### References
+
+[Country list ratings](https://tradingeconomics.com/country-list/rating)
+[Actuarial Standards Board](http://www.actuarialstandardsboard.org/wp-content/uploads/2013/12/asop046_165.pdf)
+[Evaluation of Risk Management Plan](https://www.managementstudyguide.com/evaluation-of-risk-management-plan.htm)
