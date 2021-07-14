@@ -26,6 +26,7 @@ These 3 reasons make any cryptocurrency, defi, dao virtually impossible to be re
 Although there is some kind of regulation that centralized institutions can do, these will be mainly focused on users of services provided with the crypto market, and they will only manage to force a lawsuit against decentralized institutions if some of these currencies, defi's and dao's meet within the reach of their jurisdiction. So its virtual impossible.
 
 But regulating a decentralized market can be achieved naturally. When institutions go after more money to finance their operations, financial institutions will require the market to become more controlled... at least the main part of it, so how can we regulate it?
+
 ## Proposal
 
 ### Introducing Crypto Ratings
