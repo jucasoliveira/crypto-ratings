@@ -98,6 +98,16 @@ position.
 few factors affecting an DOrg financial position.
 
 
+### Economic Capital
+
+Economic capital is a set of evaluation of some DOrg specific factors, those are:
+
+- **Liquidity risk**: Funding collateral given on liquidity pool and the spread of wallet holders of that pool, with Transactions and Volume indicators;
+- **Interest Rate risk**: The interest rates of the pairs on the liquidity pools;
+- **Market risk**: NVT Ratio;
+- **Operational risk**: Combination of Realized P/L, Net Realized P/L , and Realized P/L ratio loss;
+- **Business risk**: Volatility of the price of the asset;
+
 ### Risk Evaluation
 
 How we going to evaluate a risk in many contexts, using various tools such as economic capital models and stress and scenario tests? In
@@ -136,7 +146,7 @@ If it is a DAO:
 
 ### Risk Grading
 
-Risk grading is the calculation of the  Average Probability of DOg Default / price goes to 0:
+Risk grading is the calculation of the Average Probability of DOg Default / price goes to 0:
 
 - **AAA+**: 0.03%
 - **AAA**: 0.05%
