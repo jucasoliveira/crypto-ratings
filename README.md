@@ -1,4 +1,5 @@
-# Welcom to crypto-ratings
+# Welcome to crypto-ratings
+
 A rating / insurance platform of the crypto world
 
 ## Intention
