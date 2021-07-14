@@ -117,7 +117,7 @@ Information about the financial strength, risk profile, and risk environment of 
 organization that is appropriate to the assignment. Such information may include
 the following:
 
-#### For crypto coin:
+#### For crypto coin:
 
 1. The number of whales holding the wallet;
 2. The contract limits of transaction and or a risk management system, a.k.a anti bot;
