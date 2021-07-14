@@ -46,7 +46,7 @@ The terms below are defined for use in this paper standard of practice.
 
 - **Whale**: A cryptocurrency wallet which hold's large amount of assets based on BTC comparison;
 - **Wallet**: A crypto hash which holds assets such as crypto coins, NFT's , etc;
-- **Economic Capital**: The amount of capital an DOrg requires to survive or to meet
+- **Economic Capital**: A set of factors which evaluates the capital of an DOrg requires to survive or to meet
 a business objective for a specified period of time and risk metric, given its risk profile.
 
 - **Emerging Risk** : New or evolving risks that may be difficult to manage since their
@@ -178,5 +178,7 @@ Risk grading is the calculation of the Average Probability of DOg Default / pric
 ### References
 
 [Country list ratings](https://tradingeconomics.com/country-list/rating)
+
 [Actuarial Standards Board](http://www.actuarialstandardsboard.org/wp-content/uploads/2013/12/asop046_165.pdf)
+
 [Evaluation of Risk Management Plan](https://www.managementstudyguide.com/evaluation-of-risk-management-plan.htm)
