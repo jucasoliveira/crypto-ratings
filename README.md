@@ -4,29 +4,28 @@ A rating / insurance platform of the crypto world
 
 ## Intention
 
-Crypto market is a wild west, and it is basically like that fundamentally. Cryptos born with the intention to be decentralized, and because it's decentralized it's virtually impossible to be regulated by a centralized institution.
+The crypto market is a wild west. And this market was born with the intention of being decentralized and, being decentralized, it is practically impossible to be regulated by a centralized institution.
 
-From the past centuries we have experience a cycle on the markets where :
+In recent centuries, we have experienced a cycle in markets where:
 
-1. It starts with no regulation, winning and loses are made
-2. Major loses happen, people call for regulations
+1. The market emerges without regulation, gains and losses happen.
+2. Massive losses happen, people ask for regulation
 3. A centralized institution comes with a "solution" and that market is regulated
 
 
-Like it or not, the regulations all came into force, and we can argue if the regulations made by centralized institutions really helps or not, but they exists nonetheless.
+Like it or not, every market ends up being regulated in one way or another. We can discuss whether regulations made by centralized institutions really have a positive effect or not, but these regulations exist anyway.
 
-And we can all agree that regulations always come to a unregulated market. With cryptos is a bit different for some , again, fundamental reasons:
+But the market for cryptocurrencies and financing/decentralized organizations is a little different for a few fundamental reasons:
 
-1. It's run entirely on the internet.
-2. It's decentralized.
-3. It's mostly encrypted.
+1. It is fully combined on the Internet.
+2. It is decentralized.
+3. It is mostly encrypted.
 
-Those 3 reasons makes any crypto coin, defi, dao's virtually impossible to be regulated, because those assets / company's can be created anywhere in the world, far from a country's regulations.
+These 3 reasons make any cryptocurrency, defi, dao virtually impossible to be regulated, because these assets/companies can be created anywhere in the world, far from the regulations of one country.
 
-Although, there are some sort of regulations centralized institutions can do, but it's mostly related to attack users than the services provided withing the crypto market, and only able to seek legal action if some of those coins, defi's and dao's are located withing the centralized institution reach. Hence it's virtual impossible regulation.
+Although there is some kind of regulation that centralized institutions can do, these will be mainly focused on users of services provided with the crypto market, and they will only manage to force a lawsuit against decentralized institutions if some of these currencies, defi's and dao's meet within the reach of their jurisdiction. So its virtual impossible.
 
-But regulating a decentralized market can be achieved naturally, and when big money comes to play, there are a need to a market to becomes more controlled ... at least the mainstream part of it, so how come we can regulate it ?
-
+But regulating a decentralized market can be achieved naturally. When institutions go after more money to finance their operations, financial institutions will require the market to become more controlled... at least the main part of it, so how can we regulate it?
 ## Proposal
 
 ### Introducing Crypto Ratings
