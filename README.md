@@ -32,13 +32,13 @@ But regulating a decentralized market can be achieved naturally. When institutio
 
 A Risk Evaluation in Decentralized Risk Management.
 
-Throughout years, financial institutions were looking on how they can trust borrow money to other institutions and understand the risks of not getting their money back. So some of then started to create rating grades , creating a risk assessment of those who seeks investment, from companies to countries. Today , when a country want's to issue a debt , investors looks at S&P, Moody's, Fitch, DBRS risk ratings to understand how risky it is to borrow money to that country and get their money back ... with interests, and riskier the country, more riskier is to get you money back.
+Throughout the years, financial institutions were looking at how they can trust borrow money from other institutions and understand the risks of not getting their money back. So some of them started to create rating grades, creating a risk assessment of those who seek investment, from companies to countries. Today, when a country want's to issue debt, investors look at S&P, Moody's, Fitch, DBRS risk ratings to understand how risky it is to borrow money from that country and get their money back ... with interests, and riskier the country, riskier is to get you money back.
 
-And that's what I came to you to propose one of the solutions to regulate crypto market: Educate on how risky it is to put your money on cryptos.
+And that's what I came to you to propose one of the solutions to regulate the crypto market: Educate on how risky it is to put your money on cryptos.
 
-Today on decentralized market , we don't have those risk assessment yet, and you learn about scamming coins, defi's and dao's only by experience and learning , but some people learn that too late, when they already lost loads of money and put their life at risk. So I want to provide a platform where a Asset/Institution can be scanned, rated and this rate maintained by the community.
+Today on decentralized market, we don't have those risk assessments yet, and you learn about scamming coins, defi's, and dao's only by experience and learning, but some people learn that too late when they already lost loads of money and put their life at risk. So I want to provide a platform where an Asset/Institution can be scanned, rated and this rate maintained by the community.
 
-And for that we have to understand how we can issue a risk assessment of a crypto asset/institution.
+And for that, we have to understand how we can issue a risk assessment of a crypto asset/institution.
 
 ### Definitions
 
